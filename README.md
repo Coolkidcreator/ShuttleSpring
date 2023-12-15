@@ -12,7 +12,7 @@
 
 ## Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/xi)](https://discord.gg/xi)
+[![Join us on Discord](whatismyip.net)](whatismyip.net)
 
 ## Setup
 
